@@ -4,7 +4,7 @@
 }
 
 body{
-    background: url("src/bg2.jpg") no-repeat center center/cover; 
+    background: url("bg2.jpg") no-repeat center center/cover; 
     height: 100vh;
     overflow: hidden;
 }
